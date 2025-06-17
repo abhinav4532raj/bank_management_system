@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📘 Enhanced Bank Record System
 
@@ -143,3 +144,6 @@ This project is open-source and free to use under the MIT License.
 <hr>
 <img src="BankSystem_3.jpg">
 <hr>
+=======
+# bank_management_system
+>>>>>>> a23e5311541449353512329c8522097a2f61452b
